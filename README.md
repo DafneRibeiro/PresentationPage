@@ -15,16 +15,15 @@
 <br>
 
 <p align="center">
-  <img alt="project DevLinks" src=".github/preview.jpg" width="100%">
+  <img src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Stack
 
 This project was developed using the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
 - Figma
 
 ## 💻 Project
@@ -35,7 +34,7 @@ The scope of this project is to use it as a Presentation page.
 
 ## 🔖 Layout
 
-You can access this figma project here [DESSE LINK](https://www.figma.com/community/file/1187422022288947321)
+You can access this figma project here [THIS LINK](https://www.figma.com/file/IHMSGCqkne27xTxk6DnwdA/DevLinks-(Community)?node-id=58%3A455&t=mkDO3pP3c4jGR2f1-1)
 
 ## :memo: License
 
